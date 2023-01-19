@@ -6,4 +6,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-Hey there, my name is Mira and I love coding and writing software!
+Hey there, my name is Mira and I love coding and developing software!
